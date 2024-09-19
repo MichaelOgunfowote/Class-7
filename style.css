@@ -1,0 +1,17 @@
+h1{
+    color:red
+}
+#myname{
+    color:black;
+    background-color:purple
+}
+*{
+    background-color: palegreen;
+}
+h3,h4{
+    background-color: aqua;
+    font-weight:bold;
+}
+.Michael{
+    background-color: green;
+}
